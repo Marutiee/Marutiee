@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Marutiee
-- MCA Student
-
+Disciplined and motivated MCA student with good problem-solving skills and practical knowledge of web
+development. Eager to begin a career in the software industry and contribute to a growth-oriented organization
+while continuously enhancing my technical skills.
 
 
 <!---
